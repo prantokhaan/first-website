@@ -1,0 +1,34 @@
+p{
+    color: red;
+    background-color: #1cf1d5;
+    height: 40px;
+    width: 75%;
+    font-size: 25px;
+}
+
+h1{
+    color: #65078d;
+}
+
+h3{
+    color: green;
+}
+
+#messi{
+    color: blue;
+}
+
+#ron{
+    color: yellow;
+}
+
+#kdb{
+    color: chocolate;
+}
+
+.birani{
+    color: indianred;
+}
+.hot{
+    background-color: gold;
+}
