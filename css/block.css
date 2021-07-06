@@ -1,0 +1,9 @@
+h1,h2{
+    color: white;
+    background-color: red;
+    display: inline;
+}
+span{
+    color: white;
+    background-color: chartreuse;
+}
