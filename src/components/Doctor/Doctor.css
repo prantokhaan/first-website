@@ -1,0 +1,10 @@
+.doctor{
+    background-color: #fafafa;
+    border-radius: 5px;
+    box-shadow: 0 5px 5px rgb(219, 215, 215);
+}
+.doctor-img img{
+    border-radius: 20px;
+    width: 130px;
+    height: 130px;
+}

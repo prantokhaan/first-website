@@ -1,0 +1,19 @@
+.two-grid{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+}
+.when-img img{
+    width: 500px;
+    height: 500px;
+    border-radius: 50%;
+}
+.when-items{
+    padding: 10px 0;
+}
+.when-items h4{
+    color: #67807b;
+    margin-bottom: 10px;
+}
+.when-items p{
+    font-size: 14px;
+}
